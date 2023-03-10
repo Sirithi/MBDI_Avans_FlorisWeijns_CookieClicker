@@ -11,6 +11,8 @@
 		9F12D42D29BB775B00FBAEB5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F12D42C29BB775B00FBAEB5 /* ContentView.swift */; };
 		9F12D42F29BB775B00FBAEB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F12D42E29BB775B00FBAEB5 /* Assets.xcassets */; };
 		9F12D43229BB775B00FBAEB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F12D43129BB775B00FBAEB5 /* Preview Assets.xcassets */; };
+		9F12D43A29BB779500FBAEB5 /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F12D43829BB779500FBAEB5 /* CreditsView.swift */; };
+		9F12D43B29BB779500FBAEB5 /* StoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F12D43929BB779500FBAEB5 /* StoreView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		9F12D42C29BB775B00FBAEB5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9F12D42E29BB775B00FBAEB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F12D43129BB775B00FBAEB5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9F12D43829BB779500FBAEB5 /* CreditsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
+		9F12D43929BB779500FBAEB5 /* StoreView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				9F12D42A29BB775B00FBAEB5 /* MBDI_Avans_FlorisWeijns_CookieClickerApp.swift */,
 				9F12D42C29BB775B00FBAEB5 /* ContentView.swift */,
+				9F12D43829BB779500FBAEB5 /* CreditsView.swift */,
+				9F12D43929BB779500FBAEB5 /* StoreView.swift */,
 				9F12D42E29BB775B00FBAEB5 /* Assets.xcassets */,
 				9F12D43029BB775B00FBAEB5 /* Preview Content */,
 			);
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F12D43A29BB779500FBAEB5 /* CreditsView.swift in Sources */,
 				9F12D42D29BB775B00FBAEB5 /* ContentView.swift in Sources */,
+				9F12D43B29BB779500FBAEB5 /* StoreView.swift in Sources */,
 				9F12D42B29BB775B00FBAEB5 /* MBDI_Avans_FlorisWeijns_CookieClickerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
